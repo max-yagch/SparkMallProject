@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1248872e-f0cd-497d-b682-2f88de0cc355" name="Default Changelist" comment="" />
+    <list default="true" id="1248872e-f0cd-497d-b682-2f88de0cc355" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkMallRealtime/src/main/scala/Req4RedisBlackNameListApplication.scala" beforeDir="false" afterPath="$PROJECT_DIR$/SparkMallRealtime/src/main/scala/Req4RedisBlackNameListApplication.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkMallRealtime/target/classes/Seq4blockNameList$$anonfun$4$$anonfun$apply$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/SparkMallRealtime/target/classes/Seq4blockNameList$$anonfun$4$$anonfun$apply$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkMallRealtime/target/classes/Seq4blockNameList$$anonfun$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/SparkMallRealtime/target/classes/Seq4blockNameList$$anonfun$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkMallRealtime/target/classes/Seq4blockNameList$$anonfun$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/SparkMallRealtime/target/classes/Seq4blockNameList$$anonfun$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkMallRealtime/target/classes/Seq4blockNameList$$anonfun$6$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/SparkMallRealtime/target/classes/Seq4blockNameList$$anonfun$6$$anonfun$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkMallRealtime/target/classes/Seq4blockNameList$$anonfun$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/SparkMallRealtime/target/classes/Seq4blockNameList$$anonfun$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkMallRealtime/target/classes/Seq4blockNameList$$anonfun$main$1$$anonfun$apply$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/SparkMallRealtime/target/classes/Seq4blockNameList$$anonfun$main$1$$anonfun$apply$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkMallRealtime/target/classes/Seq4blockNameList$$anonfun$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/SparkMallRealtime/target/classes/Seq4blockNameList$$anonfun$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkMallRealtime/target/classes/Seq4blockNameList$.class" beforeDir="false" afterPath="$PROJECT_DIR$/SparkMallRealtime/target/classes/Seq4blockNameList$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkMallRealtime/target/classes/kafkaObj$.class" beforeDir="false" afterPath="$PROJECT_DIR$/SparkMallRealtime/target/classes/kafkaObj$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkMallRealtime/target/classes/kafkaObj.class" beforeDir="false" afterPath="$PROJECT_DIR$/SparkMallRealtime/target/classes/kafkaObj.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/SparkMallCommon/target/" />
@@ -20,22 +33,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SparkMallRealtime/src/main/scala/Seq4blockNameList.scala">
+        <entry file="file://$PROJECT_DIR$/SparkMallmock/src/main/scala/yang/sparkmall/mock/util/realtime/MockRealTimeGenerator.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="114" column="18" selection-start-line="114" selection-start-column="18" selection-end-line="114" selection-end-column="18" />
-              <folding>
-                <element signature="e#1#56#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="72">
+              <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SparkMallRealtime/src/main/scala/Req4RedisBlackNameListApplication.scala">
+        <entry file="file://$PROJECT_DIR$/SparkMallRealtime/src/main/scala/Req6DateAreaAdsClickCountTop3Application.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
+            <state relative-caret-position="-19">
+              <caret line="86" column="21" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
               <folding>
                 <element signature="e#0#55#0" expanded="true" />
               </folding>
@@ -72,9 +82,6 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="47771ecc-e83d-44b2-b670-0086255bf81d" />
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -108,10 +115,12 @@
         <option value="$PROJECT_DIR$/SparkMallRealtime/src/main/scala/util/dataUtil.scala" />
         <option value="$PROJECT_DIR$/SparkMallCommon/src/main/scala/yang/sparkmall/common/util/dataUtil.scala" />
         <option value="$PROJECT_DIR$/SparkMallCommon/src/main/scala/yang/sparkmall/common/util/Datautil.scala" />
-        <option value="$PROJECT_DIR$/SparkMallRealtime/src/main/scala/util/redisUtil.scala" />
         <option value="$PROJECT_DIR$/SparkMallOffline/src/main/scala/yang/sparkmall/offline/Req3PageFlowApplication.scala" />
         <option value="$PROJECT_DIR$/SparkMallRealtime/src/main/scala/Seq4blockNameList.scala" />
+        <option value="$PROJECT_DIR$/SparkMallRealtime/src/main/scala/util/redisUtil.scala" />
         <option value="$PROJECT_DIR$/SparkMallRealtime/src/main/scala/Req4RedisBlackNameListApplication.scala" />
+        <option value="$PROJECT_DIR$/SparkMallRealtime/src/main/scala/Req5AdsClickCountApplication.scala" />
+        <option value="$PROJECT_DIR$/SparkMallRealtime/src/main/scala/Req6DateAreaAdsClickCountTop3Application.scala" />
       </list>
     </option>
   </component>
@@ -138,8 +147,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="83" />
-    <option name="y" value="79" />
+    <option name="x" value="79" />
+    <option name="y" value="23" />
     <option name="width" value="1567" />
     <option name="height" value="834" />
   </component>
@@ -181,7 +190,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,6 +221,14 @@
               <item name="SparkMallCommon" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkMallProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkMallProject" type="462c0819:PsiDirectoryNode" />
+              <item name="SparkMallCommon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -232,7 +248,87 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkMallProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkMallProject" type="462c0819:PsiDirectoryNode" />
+              <item name="SparkMallCommon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkMallProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkMallProject" type="462c0819:PsiDirectoryNode" />
+              <item name="SparkMallmock" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkMallProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkMallProject" type="462c0819:PsiDirectoryNode" />
+              <item name="SparkMallmock" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkMallProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkMallProject" type="462c0819:PsiDirectoryNode" />
+              <item name="SparkMallmock" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkMallProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkMallProject" type="462c0819:PsiDirectoryNode" />
+              <item name="SparkMallmock" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkMallProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkMallProject" type="462c0819:PsiDirectoryNode" />
+              <item name="SparkMallmock" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkMallProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkMallProject" type="462c0819:PsiDirectoryNode" />
+              <item name="SparkMallOffline" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkMallProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkMallProject" type="462c0819:PsiDirectoryNode" />
+              <item name="SparkMallOffline" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkMallProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkMallProject" type="462c0819:PsiDirectoryNode" />
+              <item name="SparkMallOffline" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkMallProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkMallProject" type="462c0819:PsiDirectoryNode" />
+              <item name="SparkMallOffline" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkMallProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkMallProject" type="462c0819:PsiDirectoryNode" />
+              <item name="SparkMallOffline" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="offline" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SparkMallProject" type="b2602c69:ProjectViewProjectNode" />
@@ -265,27 +361,26 @@
               <item name="SparkMallProject" type="462c0819:PsiDirectoryNode" />
               <item name="SparkMallRealtime" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="String&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/rt.jar!/java/lang/String.class&#10;message&#9;FILE&#9;jar:///Users/maxyang/devlopment/reposiyory/org/apache/kafka/kafka_2.11/0.10.0.1/kafka_2.11-0.10.0.1-sources.jar!/kafka/message/Message.scala&#10;binaryj&#9;PSI&#9;JAVA://redis.clients.jedis.BinaryJedis" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563360571784" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563370545116" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -307,20 +402,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MockRealTimeGenerator">
-    <configuration name="Category_session_top10" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="yang.sparkmall.offline.Category_session_top10" />
-      <module name="SparkMallOffline" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="yang.sparkmall.offline.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Req6DateAreaAdsClickCountTop3Application">
     <configuration name="MockRealTimeGenerator" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="yang.sparkmall.mock.util.realtime.MockRealTimeGenerator" />
       <module name="SparkMallmock" />
@@ -334,12 +416,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Req3PageFlowApplication" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="yang.sparkmall.offline.Req3PageFlowApplication" />
-      <module name="SparkMallOffline" />
+    <configuration name="MockerOffline" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="yang.sparkmall.mock.util.MockerOffline" />
+      <module name="SparkMallmock" />
+      <option name="VM_PARAMETERS" value="-DHADOOP_USER_NAME=yang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="yang.sparkmall.offline.*" />
+          <option name="PATTERN" value="yang.sparkmall.mock.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -347,40 +430,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Seq4blockNameList" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Seq4blockNameList" />
+    <configuration name="Req4RedisBlackNameListApplication" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Req4RedisBlackNameListApplication" />
       <module name="SparkMallRealtime" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="yang.sparkmall.offline.Test" />
-      <module name="SparkMallOffline" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="yang.sparkmall.offline.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Req5AdsClickCountApplication" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Req5AdsClickCountApplication" />
+      <module name="SparkMallRealtime" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Req6DateAreaAdsClickCountTop3Application" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Req6DateAreaAdsClickCountTop3Application" />
+      <module name="SparkMallRealtime" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Category_session_top10" />
-      <item itemvalue="Application.Req3PageFlowApplication" />
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.MockRealTimeGenerator" />
-      <item itemvalue="Application.Seq4blockNameList" />
+      <item itemvalue="Application.Req4RedisBlackNameListApplication" />
+      <item itemvalue="Application.Req5AdsClickCountApplication" />
+      <item itemvalue="Application.MockerOffline" />
+      <item itemvalue="Application.Req6DateAreaAdsClickCountTop3Application" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Req6DateAreaAdsClickCountTop3Application" />
         <item itemvalue="Application.MockRealTimeGenerator" />
-        <item itemvalue="Application.Seq4blockNameList" />
-        <item itemvalue="Application.Req3PageFlowApplication" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Category_session_top10" />
+        <item itemvalue="Application.MockerOffline" />
+        <item itemvalue="Application.Req5AdsClickCountApplication" />
+        <item itemvalue="Application.Req4RedisBlackNameListApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -401,6 +485,8 @@
       <workItem from="1563274137537" duration="8098000" />
       <workItem from="1563293166246" duration="467000" />
       <workItem from="1563322445242" duration="12847000" />
+      <workItem from="1563360543016" duration="7306000" />
+      <workItem from="1563368534770" duration="2008000" />
     </task>
     <task id="LOCAL-00001" summary="request 1 to 4">
       <created>1563335371624</created>
@@ -423,11 +509,18 @@
       <option name="project" value="LOCAL" />
       <updated>1563354512665</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="request 1 to 4">
+      <created>1563360620564</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1563360620564</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71136000" />
+    <option name="totallyTimeSpent" value="80450000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -439,26 +532,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="112" y="57" width="1567" height="834" extended-state="0" />
+    <frame x="79" y="23" width="1567" height="834" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.58236057" visible="true" weight="0.21254125" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.58236057" visible="true" weight="0.26534653" />
       <window_info id="TODO" order="1" sideWeight="0.41763943" side_tool="true" weight="0.24818482" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="3" />
-      <window_info id="Image Layers" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Structure" order="7" weight="0.24950495" />
       <window_info id="Learn" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.44464287" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49834985" weight="0.61383283" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3994812" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50033003" side_tool="true" visible="true" weight="0.38040346" />
-      <window_info anchor="bottom" id="Messages" order="8" show_stripe_button="false" sideWeight="0.49966997" weight="0.38040346" />
+      <window_info anchor="bottom" id="Terminal" order="6" sideWeight="0.49966997" weight="0.3299712" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50165015" side_tool="true" weight="0.41930836" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49966997" weight="0.2832618" />
       <window_info anchor="bottom" id="Java Enterprise" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
@@ -527,13 +620,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="request 1 to 4" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SparkMallCommon/src/main/resources/hive-site.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SparkMallmock/src/main/scala/yang/sparkmall/mock/RandomDate.scala" />
     <entry file="file://$PROJECT_DIR$/SparkMallmock/src/main/scala/yang/sparkmall/mock/RandomNum.scala" />
     <entry file="file://$PROJECT_DIR$/SparkMallmock/src/main/scala/yang/sparkmall/mock/MockerOffline.scala" />
@@ -623,13 +709,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SparkMallmock/src/main/scala/yang/sparkmall/mock/util/MockerOffline.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SparkMallCommon/src/main/scala/yang/sparkmall/common/util/ConfigUtil.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -687,43 +766,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SparkMallmock/src/main/scala/yang/sparkmall/mock/util/realtime/MockRealTimeGenerator.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="53" column="44" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/devlopment/reposiyory/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/BinaryJedis.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="457">
           <caret line="2960" column="35" lean-forward="true" selection-start-line="2960" selection-start-column="35" selection-end-line="2960" selection-end-column="35" />
-          <folding>
-            <element signature="e#132569#132570#0" expanded="true" />
-            <element signature="e#132606#132607#0" expanded="true" />
-            <element signature="e#132645#132646#0" expanded="true" />
-            <element signature="e#132680#132681#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SparkMallRealtime/src/main/scala/util/KafkaUtil.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
-          <folding>
-            <element signature="e#14#69#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SparkMallRealtime/src/main/scala/util/redisUtil.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="e#14#76#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -731,9 +777,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-956">
           <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-          <folding>
-            <element signature="e#32#94#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -741,9 +784,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="651">
           <caret line="74" column="43" selection-start-line="74" selection-start-column="43" selection-end-line="74" selection-end-column="43" />
-          <folding>
-            <element signature="e#33#95#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -751,9 +791,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-          <folding>
-            <element signature="e#32#65#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -764,9 +801,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/rt.jar!/java/lang/String.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SparkMallRealtime/src/main/scala/util/redisUtil.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SparkMallRealtime/src/main/scala/util/KafkaUtil.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="36" column="44" lean-forward="true" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SparkMallRealtime/src/main/scala/Seq4blockNameList.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
+        <state relative-caret-position="1785">
           <caret line="114" column="18" selection-start-line="114" selection-start-column="18" selection-end-line="114" selection-end-column="18" />
           <folding>
             <element signature="e#1#56#0" expanded="true" />
@@ -774,20 +832,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/rt.jar!/java/lang/String.class">
+    <entry file="file://$PROJECT_DIR$/SparkMallRealtime/src/main/scala/Req4RedisBlackNameListApplication.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        <state relative-caret-position="1377">
+          <caret line="90" column="41" selection-start-line="90" selection-start-column="41" selection-end-line="90" selection-end-column="41" />
           <folding>
-            <element signature="e#0#36011#0" expanded="true" />
+            <element signature="e#0#55#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SparkMallRealtime/src/main/scala/Req4RedisBlackNameListApplication.scala">
+    <entry file="file://$PROJECT_DIR$/SparkMallCommon/src/main/resources/hive-site.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
+        <state relative-caret-position="17">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SparkMallmock/src/main/scala/yang/sparkmall/mock/util/MockerOffline.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="69" column="38" selection-start-line="69" selection-start-column="38" selection-end-line="69" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SparkMallRealtime/src/main/scala/Req5AdsClickCountApplication.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SparkMallmock/src/main/scala/yang/sparkmall/mock/util/realtime/MockRealTimeGenerator.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SparkMallRealtime/src/main/scala/Req6DateAreaAdsClickCountTop3Application.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="86" column="21" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
           <folding>
             <element signature="e#0#55#0" expanded="true" />
           </folding>
