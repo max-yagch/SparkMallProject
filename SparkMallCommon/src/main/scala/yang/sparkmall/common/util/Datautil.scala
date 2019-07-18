@@ -14,4 +14,13 @@ object Datautil {
 		val format = new SimpleDateFormat(f)
 		format.format(d)
 	}
+
+	def parseLongByString( s : String, f:String = "yyyy-MM-dd HH:mm:ss" ) : Long = {
+		parseDateByString(s, f).getTime
+	}
+
+	def parseDateByString(s : String, f:String = "yyyy-MM-dd HH:mm:ss"): Date = {
+		val sdf = new SimpleDateFormat(f)
+		sdf.parse(s)
+	}
 }
